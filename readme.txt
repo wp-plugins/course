@@ -14,3 +14,8 @@ We are pleased to present the WordPress plugin for creating a custom post type f
 Upload the Course plugin to your blog, Activate it.
 
 1, 2: You're done!
+
+== Screenshots ==
+
+1. Add New Editor
+2. Custom Fields Meta Boxes
