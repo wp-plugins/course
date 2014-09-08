@@ -2,8 +2,8 @@
 Contributors: Imran Ahmed Khan
 Author: Imran Ahmed Khan
 Tags: course, student, courses, courses for institute
-Requires at least: 3.9
-Tested up to: 3.9.2
+Requires at least: 3.0
+Tested up to: 4.0
 Stable tag: trunk
 License: GPLv2 or later
 A plugin that will create a custom post type displaying courses offered by an institution.
